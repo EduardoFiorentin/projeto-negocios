@@ -1,0 +1,16 @@
+/* CLientes */
+.clientes {
+    padding: 10% 0;
+}
+.clientes__h2 {
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center;
+    padding-bottom: 5%;
+}
+.clientes__p {
+    font-size: 1.5rem;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}

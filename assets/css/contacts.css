@@ -1,0 +1,17 @@
+/* contacts */
+.contacts {
+    background-color: var(--vermelho);
+    text-align: center;
+    padding-bottom: 10%;
+    color: white;
+    line-height: 1.5rem;
+}
+.contact__callus, .contact__location, .contact__services {
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    padding: 5% 0;
+}
+.contact__services-list {
+    font-weight: bold;
+}

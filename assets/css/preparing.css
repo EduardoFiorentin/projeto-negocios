@@ -1,0 +1,25 @@
+/* preparing */
+.preparing {
+    background-color: var(--cinza);
+    padding-bottom: 10%;
+    padding-top: 8%;
+}
+.preparing__h2 {
+    color: white;
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 4%;
+
+    max-width: 80%;
+    margin: auto;
+}
+.preparing____h2--red {
+    color: var(--vermelho);
+}
+
+.preparing__p {
+    padding: 0 5%;
+    color: white;
+    line-height: 1.5rem;
+}

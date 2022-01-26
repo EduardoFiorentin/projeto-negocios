@@ -1,0 +1,46 @@
+/* relaçoes */
+.relacoes {
+    padding: 10% 0;
+}
+.relacoes__h2 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 5%;
+    
+}
+.relacoes__p {
+    padding: 0 2%;
+}
+
+.relacoes__vantagens {
+    max-width: 90%;
+    margin: auto;
+}
+.relacoes__vantagem-storage-h2 {
+    text-align: center;
+    font-weight: bold;
+    color: var(--vermelho);
+    padding: 20px;
+}
+.relacoes__vantagem-storage-p {
+    text-align: center;
+    color: #000000b3;
+}
+.relacoes__vantagem-bandwidth {
+    background-color: var(--vermelho);
+}
+.relacoes__vantagem-storage-img {
+    display: block;
+    width: 150px;
+    margin: auto;
+}
+.relacoes__vantagem-storage-h2-bandwidth, .relacoes__vantagem-storage-p-bandwidth {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+}
+.relacoes__vantagem-storage, .relacoes__vantagem-bandwidth, .relacoes__vantagem-registro  {
+    padding: 5%;
+}
